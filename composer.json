@@ -1,0 +1,30 @@
+{
+    "name": "timfeid/ics-generator",
+    "description": "Generate ICS files via PHP",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tim Feid",
+            "email": "tim@timfeid.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^1.22"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.2.*",
+        "fzaninotto/faker": "~1.4",
+        "mockery/mockery": "0.9.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "TimFeid\\ICS\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "classmap": [
+            "tests/TestCase.php"
+        ]
+    }
+}

@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REPLY
+BEGIN:VEVENT
+DTSTART:20171121T140000Z
+DTEND:20171121T150000Z
+DTSTAMP:20171107T060759Z
+ORGANIZER;CN=RGE Support:mailto:support@roubini.com
+UID:1510032793addeventcom
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=pravee
+ n@klaycapital.com;X-NUM-GUESTS=0:mailto:praveen@klaycapital.com
+CREATED:20171107T053322Z
+DESCRIPTION:Conference Details\n\nMeeting title: Key Global Themes for 2018
+ \nMeeting date: November 21st\, 2017\nStart time: 09:00 AM EST\nDuration: 1
+  Hour\n\nAudio conference details\n\nPrimary dial-in number(s) US : United
+ States Toll free: 1 800 219.3192\nUnited States International direct: +1 61
+ 7 597.5412\nPrimary dial-in number(s) UK : United Kingdom Toll free: 080 00
+ 55 6013United Kingdom Toll free: 080 0085 8265\n\nUnited Kingdom Internatio
+ nal/local direct: +44 (0) 20 7136 5118\nUnited Kingdom International/local
+ direct: +44 (0) 20 3027 7073\nGlobal Access Dial-in Numbers: http://www.btc
+ onferencing.com/globalaccess/?bid=288_automated\nParticipant passcode: 6453
+ 6434\nPre-registration Pin: 54278\n\nHow to Join Your Conference\nTo join t
+ he audio conference\nA few minutes before the start of your conference:\n\n
+ Call one of the dial-in numbers listed above under Audio conference details
+ . If you are located outside of North America\, and want to use a dial-in n
+ umber within your country\, look up your Global Access Number at: http://ww
+ w.btconferencing.com/globalaccess/?bid=288_automated . \nWhen prompted\, en
+ ter your participant passcode followed by the # sign on your telephone keyp
+ ad.\nAt the prompt\, enter your Pre-registration Pin followed by the # sign
+  on your telephone keypad.\nDepending on the options selected for this conf
+ erence call\, you will either be entered directly into the conference or yo
+ u will hear music until the conference begins.\n\nEvery year\, we produce a
+  number of themes\, ideas or trends that we believe are likely to character
+ ize the coming year.\n\nOur themes for 2018 will include divergent DM monet
+ ary policy\; stronger growth and tighter policy in EMs\; the reconnection o
+ f politics and markets\; and housing bubbles and contagion.
+LAST-MODIFIED:20171107T060759Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Key Global Themes for 2018
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H15M0S
+END:VALARM
+END:VEVENT
+END:VCALENDAR
